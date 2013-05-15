@@ -1,6 +1,6 @@
 {
   "name": "dispatch-request-spawn-all",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Continually request a Dispatch server to spawn all commands until succesful",
   "main": "index.js",
   "scripts": {
