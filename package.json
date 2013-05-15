@@ -21,7 +21,8 @@
     "eyespect": "~0.1.8",
     "optimist": "~0.4.0",
     "request": "~2.21.0",
-    "async": "~0.2.8"
+    "async": "~0.2.8",
+    "moment": "~2.0.0"
   },
   "devDependencies": {
     "should": "~1.2.2",
